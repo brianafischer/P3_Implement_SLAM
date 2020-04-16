@@ -100,4 +100,4 @@ def make_data(N, num_landmarks, world_size, measurement_range, motion_noise,
     print(r)
 
 
-    return data
+    return r, data
